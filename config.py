@@ -1,0 +1,3 @@
+READ = "r"
+APPEND = "a"
+DEFAULT_COLUMN_NUM = -1

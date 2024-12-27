@@ -1,0 +1,4 @@
+C:\Users\o\source\repos\XMLcleaner\examination.txt
+C:\Users\o\source\repos\XMLcleaner\examinationTest.txt
+D:\VS_projects\PyHomeTests\testík s ř\examinationTest.txt
+D:\VS_projects\PyHomeTests\test.txt
