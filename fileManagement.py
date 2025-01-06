@@ -44,6 +44,8 @@ def runFileEdit(xmlEditClass, filePath):
                 if not (actualColumn >= intFromColumn and actualColumn <= intToColumn):
                     lineToCopy += char
                 actualColumn += 1
+            elif char == "\n":
+                lineToCopy += char
             else:
                 if actualColumn >= intFromColumn and actualColumn <= intToColumn:
                     continue #skip this column
